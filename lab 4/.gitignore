@@ -1,0 +1,13 @@
+# Ignore all PDF files
+*.pdf
+
+# Except thesis.pdf
+!thesis.pdf
+
+# Ignore other common files and directories
+node_modules/
+dist/
+build/
+.DS_Store
+.vscode/
+.devcontainer/
